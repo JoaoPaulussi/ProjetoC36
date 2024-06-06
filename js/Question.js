@@ -46,8 +46,8 @@ class Question {
 
     this.button.mousePressed(()=>{
       
-      // this.message.html("Obrigado, Sua Resposta Foi Enviada");
-      // this.message.position(350, 350);
+       this.message.html("Obrigado, Sua Resposta Foi Enviada");
+       this.message.position(350, 350);
 
 
 
